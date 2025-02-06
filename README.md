@@ -10,7 +10,5 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 - 🔊 I’m currently learning how to apply machine learning predict viral songs
 
 ## Connect With Me:
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/tomeg"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeg/)
+
