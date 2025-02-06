@@ -27,4 +27,4 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 ### Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=tom4sg&theme=algolia&show_icons=true)](https://github.com/tom4sg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom4sg&theme=tokyonight)
+[![Tomas Gutierrez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tom4sg&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/tom4sg)
