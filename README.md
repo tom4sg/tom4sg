@@ -24,4 +24,4 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-CA4245?style=flat-square&logoColor=white)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom4sg&theme=tokyonight)
