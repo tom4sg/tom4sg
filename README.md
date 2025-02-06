@@ -9,6 +9,19 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 - 📫 How to reach me: gutierreztomas321@gmail.com
 - 🔊 I’m currently learning how to apply machine learning predict viral songs
 
-## Connect With Me:
+# Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeg/)
+
+# Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-263238?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-CA4245?style=flat-square&logoColor=white)
+
 
