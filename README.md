@@ -23,7 +23,7 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-CA4245?style=flat-square&logoColor=white)
-
+#
 ### Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=tom4sg&theme=algolia&show_icons=true)](https://github.com/tom4sg)
 
