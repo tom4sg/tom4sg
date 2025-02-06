@@ -9,10 +9,10 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 - 📫 How to reach me: gutierreztomas321@gmail.com
 - 🔊 I’m currently learning how to apply machine learning predict viral songs
 
-# Connect With Me:
+* Connect With Me: *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeg/)
 
-# Languages and Tools:
+* Languages and Tools: *
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
