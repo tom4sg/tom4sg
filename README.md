@@ -1,10 +1,10 @@
-## Hi there 👋
+## Tomas's Github Profile 👋
 
 <!--
 **tom4sg/tom4sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
+Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science. I grew from New York City, but my family is from Venezuela 🇻🇪! I also love music, and like to produce in my free time. 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
