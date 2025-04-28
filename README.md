@@ -6,7 +6,7 @@
 Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science. I grew up in New York City, but my family is from Venezuela 🇻🇪. I also love music, and like to produce in my free time. 
 
 - 🏙️ I’m double majoring in Recorded Music and Data Science at NYU
-- 📫 How to reach me: gutierreztomas321@gmail.com
+- 📫 How to reach me: teg8352@nyu.edu
 - 🔊 I’m currently learning how to apply machine learning to predict viral artists on Spotify
 
 ### Connect With Me:
