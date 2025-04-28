@@ -7,7 +7,7 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 
 - 🏙️ I’m double majoring in Recorded Music and Data Science at NYU
 - 📫 How to reach me: gutierreztomas321@gmail.com
-- 🔊 I’m currently learning how to apply machine learning to predict viral artists
+- 🔊 I’m currently learning how to apply machine learning to predict viral artists on Spotify
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeg/)
