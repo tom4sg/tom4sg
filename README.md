@@ -3,7 +3,7 @@
 <!--
 **tom4sg/tom4sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science. I grew up in New York City, but my family is from Venezuela 🇻🇪. I also love music, and like to produce in my free time. 
+Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
 
 - 🏙️ I’m double majoring in Data Science and Recorded Music at NYU
 - 📫 How to reach me: teg8352@nyu.edu
