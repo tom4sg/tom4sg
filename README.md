@@ -7,7 +7,7 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 
 - 🏙️ I’m double majoring in Data Science and Recorded Music at NYU
 - 📫 How to reach me: teg8352@nyu.edu
-- 🤖 Currently building with LangChain / LangGraph and conducting funded research
+- 🤖 Currently building with LangChain / LangGraph
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/tomeg/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
