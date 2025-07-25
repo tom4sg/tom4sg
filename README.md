@@ -3,11 +3,10 @@
 <!--
 **tom4sg/tom4sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
+Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about LLMS, AI Agents, RAG etc. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
 
 - 🏙️ I’m double majoring in Data Science and Recorded Music at NYU
 - 📫 How to reach me: teg8352@nyu.edu
-- 🔊 I’m currently pursuing a research grant focused applying machine learning to predict viral artists on Spotify
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeg/)
