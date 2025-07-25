@@ -7,7 +7,7 @@ Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about
 
 - 🏙️ I’m double majoring in Data Science and Recorded Music at NYU
 - 📫 How to reach me: teg8352@nyu.edu
-
+- 🤖 Currently working on making my first open source contributions
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeg/)
 
