@@ -3,11 +3,11 @@
 <!--
 **tom4sg/tom4sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about LLMs, AI Agents, RAG etc. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
+Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science, ML, and LLM Engineering. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
 
 - 🏙️ I’m double majoring in Data Science and Recorded Music at NYU
 - 📫 How to reach me: teg8352@nyu.edu
-- 🤖 Currently building with LangChain, LangGraph, and MCP
+- 🤖 Currently building an ML Pipeline to predict Hot 100 song lifespan from Social Media Engagement features
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/tomeg/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
