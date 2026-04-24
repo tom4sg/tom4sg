@@ -5,7 +5,7 @@
 -->
 Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science, ML, LLMs etc. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
 
-- 🏙️ I’m an incoming graduate Data Science student at NYU
+- 🏙️ I’m an incoming MSDS student at NYU
 - 📫 How to reach me: teg8352@nyu.edu
   
 ### Connect With Me:
