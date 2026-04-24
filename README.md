@@ -5,9 +5,9 @@
 -->
 Hi there! This is Tomas Gutierrez. I am a student at NYU who is passionate about Data Science, ML, LLMs etc. I grew up in New York City, but my family is from Venezuela 🇻🇪. 
 
-- 🏙️ I’m double majoring in Data Science and Recorded Music at NYU
+- 🏙️ I’m an incoming graduate Data Science student at NYU
 - 📫 How to reach me: teg8352@nyu.edu
-- 🤖 Building an ML pipeline to predict Hot 100 song lifespan from social data
+  
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/tomeg/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
